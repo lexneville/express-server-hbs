@@ -1,0 +1,42 @@
+{
+ "message": "accurate",
+ "cod": "200",
+ "count": 1,
+ "list": [
+  {
+   "id": 2643123,
+   "name": "Manchester",
+   "coord": {
+    "lat": 53.4791,
+    "lon": -2.2442
+   },
+   "main": {
+    "temp": 280.31,
+    "pressure": 1023,
+    "humidity": 81,
+    "temp_min": 278.15,
+    "temp_max": 282.15
+   },
+   "dt": 1575385758,
+   "wind": {
+    "speed": 1
+   },
+   "sys": {
+    "country": "GB"
+   },
+   "rain": null,
+   "snow": null,
+   "clouds": {
+    "all": 0
+   },
+   "weather": [
+    {
+     "id": 800,
+     "main": "Clear",
+     "description": "clear sky",
+     "icon": "01d"
+    }
+   ]
+  }
+ ]
+}
